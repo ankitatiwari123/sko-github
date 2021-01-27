@@ -40,4 +40,3 @@ jobs:
         env:
           TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
           TWILIO_API_KEY: ${{ secrets.TWILIO_SMS_API_KEY }}
-          TWILIO_API_SECRET: ${{ secrets.TWILIO_SMS_API_SECRET }}
